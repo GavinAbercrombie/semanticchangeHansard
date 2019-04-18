@@ -3,7 +3,9 @@
 ## Contents
 
 semanticchangeHansard.py
+
 Input: list of words of interest, aligned embeddings from two different epochs
+
 Output: For each WOI, 10 most similar words in each epoch 
 
 ### Resources
