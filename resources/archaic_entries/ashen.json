@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "ashen",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "100",
+              "senses": [
+                {
+                  "definitions": [
+                    "(of a person's face) very pale with shock, fear, or illness"
+                  ],
+                  "examples": [
+                    {
+                      "text": "Eleanor's ashen face"
+                    }
+                  ],
+                  "id": "m_en_gbus0050910.006",
+                  "short_definitions": [
+                    "very pale with shock or illness"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "ashen",
+                      "sense_id": "t_en_gb0000860.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "of or resembling ashes"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the ashen colour of the landscape"
+                    },
+                    {
+                      "text": "the ashen morning sky"
+                    }
+                  ],
+                  "id": "m_en_gbus0050910.009",
+                  "registers": [
+                    "literary"
+                  ],
+                  "short_definitions": [
+                    "of or resembling ashes"
+                  ]
+                }
+              ]
+            },
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "200",
+              "senses": [
+                {
+                  "definitions": [
+                    "made of timber from the ash tree."
+                  ],
+                  "id": "m_en_gbus0050920.005",
+                  "registers": [
+                    "archaic"
+                  ],
+                  "short_definitions": [
+                    "made of timber from ash tree"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ashen_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ˈaʃ(ə)n"
+            }
+          ],
+          "text": "ashen"
+        }
+      ],
+      "type": "headword",
+      "word": "ashen"
+    }
+  ]
+}

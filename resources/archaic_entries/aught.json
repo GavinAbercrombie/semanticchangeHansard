@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "aught",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English āwiht (see aye, wight)"
+              ],
+              "homographNumber": "100",
+              "senses": [
+                {
+                  "definitions": [
+                    "anything at all"
+                  ],
+                  "examples": [
+                    {
+                      "text": "know you aught of this fellow, young sir?"
+                    }
+                  ],
+                  "id": "m_en_gbus0057640.009",
+                  "registers": [
+                    "archaic"
+                  ],
+                  "short_definitions": [
+                    "anything at all"
+                  ]
+                }
+              ],
+              "variantForms": [
+                {
+                  "text": "ought"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Pronoun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/aught_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ɔːt"
+            }
+          ],
+          "text": "aught"
+        },
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "early 19th century: probably a variant of naught"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "200",
+              "senses": [
+                {
+                  "definitions": [
+                    "the digit 0; zero."
+                  ],
+                  "id": "m_en_gbus0057660.005",
+                  "regions": [
+                    "US"
+                  ],
+                  "short_definitions": [
+                    "digit 0"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ought_gb_1_8.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ɔːt"
+            }
+          ],
+          "text": "aught"
+        }
+      ],
+      "type": "headword",
+      "word": "aught"
+    }
+  ]
+}

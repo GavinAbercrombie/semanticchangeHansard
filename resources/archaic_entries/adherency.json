@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "adherency",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "late 16th century; earliest use found in Geoffrey Fenton (c1539–1608), translator and administrator in Ireland. From post-classical Latin adhaerentia adherence; compare -y, -ency. Compare earlier adherent"
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "The action, state, or fact of adhering to a person or thing; especially steadfast support, allegiance. Also occasionally: an instance of this."
+                  ],
+                  "id": "m_en_gb_oed2329.001",
+                  "registers": [
+                    "archaic"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "A group of adherents or supporters; a following. rare after 17th cent."
+                  ],
+                  "id": "m_en_gb_oed2329.002",
+                  "registers": [
+                    "archaic",
+                    "rare"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ədˈhɪərənsɪ"
+            },
+            {
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ədˈhɪər(ə)nsɪ"
+            },
+            {
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "adˈhɪərənsɪ"
+            }
+          ],
+          "text": "adherency"
+        }
+      ],
+      "type": "headword",
+      "word": "adherency"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "aye",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "late 16th century: probably from I, first person personal pronoun, expressing assent"
+              ],
+              "homographNumber": "100",
+              "senses": [
+                {
+                  "definitions": [
+                    "said to express assent; yes"
+                  ],
+                  "examples": [
+                    {
+                      "text": "aye, you're right there"
+                    }
+                  ],
+                  "id": "m_en_gbus0062300.007",
+                  "registers": [
+                    "dialect",
+                    "archaic"
+                  ],
+                  "short_definitions": [
+                    "said to express assent"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a response accepting an order"
+                      ],
+                      "domains": [
+                        "Nautical"
+                      ],
+                      "examples": [
+                        {
+                          "text": "aye aye, captain"
+                        }
+                      ],
+                      "id": "m_en_gbus0062300.010",
+                      "notes": [
+                        {
+                          "text": "\"aye aye\"",
+                          "type": "wordFormNote"
+                        }
+                      ],
+                      "short_definitions": [
+                        "response accepting order"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "yes",
+                          "sense_id": "t_en_gb0016464.001"
+                        }
+                      ]
+                    },
+                    {
+                      "definitions": [
+                        "(in voting) I assent"
+                      ],
+                      "examples": [
+                        {
+                          "text": "all in favour say aye"
+                        }
+                      ],
+                      "id": "m_en_gbus0062300.012",
+                      "short_definitions": [
+                        "I assent"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "variantForms": [
+                {
+                  "text": "ay"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Interjection",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/aye_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ʌɪ"
+            }
+          ],
+          "text": "aye"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "101",
+              "senses": [
+                {
+                  "definitions": [
+                    "an affirmative answer, especially in voting"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the House divided: Ayes 211, Noes 271"
+                    }
+                  ],
+                  "id": "m_en_gbus0062300.014",
+                  "short_definitions": [
+                    "affirmative answer in voting"
+                  ]
+                }
+              ],
+              "variantForms": [
+                {
+                  "text": "ay"
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/aye_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ʌɪ"
+            }
+          ],
+          "text": "aye"
+        },
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Middle English: from Old Norse ei, ey; related to Latin aevum ‘age’ and Greek aie(i) ‘ever’, aiōn ‘aeon’"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "200",
+              "senses": [
+                {
+                  "definitions": [
+                    "always or still"
+                  ],
+                  "examples": [
+                    {
+                      "text": "I've aye fancied seeing Edinburgh"
+                    }
+                  ],
+                  "id": "m_en_gbus0062310.006",
+                  "regions": [
+                    "Scottish"
+                  ],
+                  "registers": [
+                    "archaic"
+                  ],
+                  "short_definitions": [
+                    "always or still"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "yes",
+                      "sense_id": "t_en_gb0016464.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adverb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/aye_gb_2_8.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "eɪ"
+            },
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/aye_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ʌɪ"
+            }
+          ],
+          "text": "aye"
+        }
+      ],
+      "type": "headword",
+      "word": "aye"
+    }
+  ]
+}

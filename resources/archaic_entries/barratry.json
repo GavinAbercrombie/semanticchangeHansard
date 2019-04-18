@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "barratry",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "barratrous",
+              "text": "barratrous"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "late Middle English (in barratry (sense 3)): from Old French baraterie, from barater ‘deceive’, based on Greek prattein ‘do, perform, manage’ (sometimes dishonestly); perhaps influenced by Old Norse barátta ‘contest’"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Mass",
+                  "type": "Countability"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "fraud or gross negligence of a ship's master or crew at the expense of its owners or users."
+                  ],
+                  "domains": [
+                    "Nautical"
+                  ],
+                  "id": "m_en_gbus0074790.006",
+                  "registers": [
+                    "archaic"
+                  ],
+                  "short_definitions": [
+                    "fraud or gross negligence of ship's master or crew at expense of its owners or users"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "negligence",
+                      "sense_id": "t_en_gb0009927.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "vexatious litigation or incitement to it (abolished as an offence in Britain in 1967)."
+                  ],
+                  "domains": [
+                    "Law"
+                  ],
+                  "id": "m_en_gbus0074790.009",
+                  "short_definitions": [
+                    "vexatious litigation or incitement to it"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "trade in the sale of Church or state appointments."
+                  ],
+                  "domains": [
+                    "Ecclesiastical"
+                  ],
+                  "id": "m_en_gbus0074790.011",
+                  "registers": [
+                    "historical"
+                  ],
+                  "short_definitions": [
+                    "trade in sale of Church or state appointments"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/barratry_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ˈbarətri"
+            }
+          ],
+          "text": "barratry"
+        }
+      ],
+      "type": "headword",
+      "word": "barratry"
+    }
+  ]
+}

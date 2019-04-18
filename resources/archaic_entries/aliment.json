@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "aliment",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "derivatives": [
+            {
+              "id": "alimental",
+              "text": "alimental"
+            }
+          ],
+          "entries": [
+            {
+              "etymologies": [
+                "late 15th century: from Latin alimentum, from alere ‘nourish’"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Mass",
+                  "type": "Countability"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "food; nourishment."
+                  ],
+                  "id": "m_en_gbus0022710.007",
+                  "registers": [
+                    "archaic"
+                  ],
+                  "short_definitions": [
+                    "food"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "food",
+                      "sense_id": "t_en_gb0005872.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "maintenance; alimony."
+                  ],
+                  "domains": [
+                    "Law"
+                  ],
+                  "id": "m_en_gbus0022710.011",
+                  "short_definitions": [
+                    "maintenance"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "alimony",
+                      "sense_id": "t_en_gb0000444.001"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/aliment_gb_1_8.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "ˈalɪm(ə)nt"
+            }
+          ],
+          "text": "aliment"
+        }
+      ],
+      "type": "headword",
+      "word": "aliment"
+    }
+  ]
+}

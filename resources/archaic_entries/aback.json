@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "aback",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English on bæc (see a-, back). The term came to be treated as a single word in nautical use"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "towards or situated to the rear; back"
+                  ],
+                  "examples": [
+                    {
+                      "text": "the little strip of pasture aback of the house"
+                    }
+                  ],
+                  "id": "m_en_gbus0000770.006",
+                  "registers": [
+                    "archaic"
+                  ],
+                  "short_definitions": [
+                    "towards or situated to rear"
+                  ]
+                },
+                {
+                  "definitions": [
+                    "with the sail pressed backwards against the mast by a headwind"
+                  ],
+                  "domains": [
+                    "Nautical"
+                  ],
+                  "examples": [
+                    {
+                      "text": "Peter holds the jib aback until our bow swings across the wind"
+                    }
+                  ],
+                  "id": "m_en_gbus0000770.009",
+                  "short_definitions": [
+                    "with sail pressed backwards against mast by headwind"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adverb",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/aback_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "əˈbak"
+            }
+          ],
+          "text": "aback"
+        }
+      ],
+      "type": "headword",
+      "word": "aback"
+    }
+  ]
+}

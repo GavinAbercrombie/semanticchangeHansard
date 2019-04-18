@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "adust",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "late Middle English: from French aduste or Latin adustus ‘burnt’, from adurere, from ad ‘to’ (as an intensifier) + urere ‘to burn’"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Positive",
+                  "type": "Degree"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "scorched; burnt."
+                  ],
+                  "id": "m_en_gbus0011750.004",
+                  "registers": [
+                    "archaic"
+                  ],
+                  "short_definitions": [
+                    "scorched"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "parched",
+                      "sense_id": "t_en_gb0010664.001"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "gloomy; melancholic."
+                  ],
+                  "id": "m_en_gbus0011750.007",
+                  "registers": [
+                    "archaic"
+                  ],
+                  "short_definitions": [
+                    "gloomy"
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "gloomy",
+                      "sense_id": "t_en_gb0006384.002"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Adjective",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/adust_gb_1.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "əˈdʌst"
+            }
+          ],
+          "text": "adust"
+        }
+      ],
+      "type": "headword",
+      "word": "adust"
+    }
+  ]
+}

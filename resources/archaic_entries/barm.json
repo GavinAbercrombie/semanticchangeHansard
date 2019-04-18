@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "barm",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "etymologies": [
+                "Old English beorma, of West Germanic origin"
+              ],
+              "grammaticalFeatures": [
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "definitions": [
+                    "the froth on fermenting malt liquor."
+                  ],
+                  "domains": [
+                    "Brewing"
+                  ],
+                  "id": "m_en_gbus0074030.007",
+                  "notes": [
+                    {
+                      "text": "mass noun",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "short_definitions": [
+                    "froth on fermenting malt liquor"
+                  ],
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "yeast or leaven."
+                      ],
+                      "domains": [
+                        "Cooking"
+                      ],
+                      "id": "m_en_gbus0074030.009",
+                      "registers": [
+                        "dialect",
+                        "archaic"
+                      ],
+                      "short_definitions": [
+                        "yeast or leaven"
+                      ],
+                      "thesaurusLinks": [
+                        {
+                          "entry_id": "leaven",
+                          "sense_id": "t_en_gb0008644.001"
+                        }
+                      ]
+                    }
+                  ],
+                  "thesaurusLinks": [
+                    {
+                      "entry_id": "bubble",
+                      "sense_id": "t_en_gb0001813.001"
+                    }
+                  ]
+                },
+                {
+                  "crossReferenceMarkers": [
+                    "short for barm cake"
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "barm_cake",
+                      "text": "barm cake",
+                      "type": "abbreviation"
+                    }
+                  ],
+                  "domains": [
+                    "Food"
+                  ],
+                  "id": "m_en_gbus0074030.011",
+                  "regions": [
+                    "Northern English"
+                  ],
+                  "short_definitions": [
+                    "bread roll"
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": "Noun",
+          "pronunciations": [
+            {
+              "audioFile": "http://audio.oxforddictionaries.com/en/mp3/barm_gb_1_8.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "bɑːm"
+            }
+          ],
+          "text": "barm"
+        }
+      ],
+      "type": "headword",
+      "word": "barm"
+    }
+  ]
+}
