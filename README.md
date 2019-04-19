@@ -8,7 +8,7 @@ Input: list of words of interest, aligned embeddings from two different epochs
 
 Output: For each WOI, 10 most similar words in each epoch 
 
-to run: `python semanticchangeHansard.py "text file containing list of words of interest"`
+to run: `python semanticchangeHansard.py "<text file containing list of words of interest>"`
 
 ### Resources
 
