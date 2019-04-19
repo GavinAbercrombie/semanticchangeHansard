@@ -10,6 +10,8 @@ Output: For each WOI, 10 most similar words in each epoch
 
 to run: `python semanticchangeHansard.py <text file containing list of words of interest>`
 
+requirements: 2 x pretrained word2vec embedding model files, 2 x word2vec npy files
+
 ### Resources
 
 oed_obsolete_occ.txt -- obsolete word, occurences in Hansard 1909-1918, occurences in Hansard 2009-2018
