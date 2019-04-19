@@ -12,7 +12,7 @@ both_models_pos = [model1pos, model2pos]
 # wois = words of interest
 wois = open(sys.argv[1]).read().split(',')
 
-for ow in wois: # change as required
+for ow in wois:
 	if ow in model1.wv.vocab:
 		print("\n'"+ow+"':")
 		for m in both_models: # select both_models or both_models_pos
